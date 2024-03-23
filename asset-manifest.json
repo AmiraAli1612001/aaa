@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/aaa/static/css/main.5c89d186.css",
+    "main.js": "/aaa/static/js/main.d5c1d5fd.js",
+    "static/media/image-yellow.webp": "/aaa/static/media/image-yellow.5146a9db9532275c98c9.webp",
+    "static/media/esim.webp": "/aaa/static/media/esim.96dc982931f8eea0a98d.webp",
+    "static/media/call.webp": "/aaa/static/media/call.6b61b0e412641f8c5cb1.webp",
+    "static/media/shutterstock_1191546529_edited.webp": "/aaa/static/media/shutterstock_1191546529_edited.1138867426bf71a86ac6.webp",
+    "static/media/num.webp": "/aaa/static/media/num.c6b6851c7eae2b3c9a7c.webp",
+    "static/media/home.webp": "/aaa/static/media/home.87852ed27cf9077615bf.webp",
+    "static/media/shutterstock_2303495945 - Copy.webp": "/aaa/static/media/shutterstock_2303495945 - Copy.1913dea25f93ab0758ea.webp",
+    "static/media/logo.webp": "/aaa/static/media/logo.6a6efaaf92a557b9b374.webp",
+    "index.html": "/aaa/index.html",
+    "main.5c89d186.css.map": "/aaa/static/css/main.5c89d186.css.map",
+    "main.d5c1d5fd.js.map": "/aaa/static/js/main.d5c1d5fd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c89d186.css",
+    "static/js/main.d5c1d5fd.js"
+  ]
+}
